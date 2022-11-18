@@ -1,0 +1,1 @@
+Hi this is a basic nodeJs application for exposing APIs and performing CRUD applications using mongoDb as a database
