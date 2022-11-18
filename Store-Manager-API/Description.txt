@@ -1,0 +1,1 @@
+This is a basic NodeJs application that performs CRUD operations on a mongodb database and some basic filtering and sorting operations as well
