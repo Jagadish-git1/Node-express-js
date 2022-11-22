@@ -1,0 +1,1 @@
+This project features a basic implementation of the JWT token
